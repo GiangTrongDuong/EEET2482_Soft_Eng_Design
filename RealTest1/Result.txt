@@ -1,0 +1,14 @@
+2234: Result is a palindrome!
+
+451: Result is not a Palindrome!
+Addition -3 to make a palidome.
+
+9: Result is a palindrome!
+
+10: Result is a palindrome!
+
+12345: Result is not a Palindrome!
+Addition 24 to make a palidome.
+
+9996: Result is a palindrome!
+
